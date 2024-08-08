@@ -1,0 +1,25 @@
+const nome = `jao`;
+const saudacao = `Olá ${nome}`;
+console.log(saudacao);
+
+////////////////////////////////////////////////////////////////
+
+const nasc = 2003;
+const age = `${2024 - nasc}`;
+console.log(age);
+
+////////////////////////////////////////////////////////////////
+
+const nomeA = `jao`;
+const nota = 7;
+const tNota = `nome: ${nomeA} // nota: ${nota}`;
+console.log(tNota);
+
+////////////////////////////////////////////////////////////////
+
+const prod = `caneta`;
+const preco = 500;
+const info = `produto: ${prod} por ${preco} R$`;
+console.log(info);
+
+////////////////////////////////////////////////////////////////
